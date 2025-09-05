@@ -4,9 +4,11 @@ emoji: 🤖
 colorFrom: blue
 colorTo: purple
 sdk: docker
+app_port: 7860
 pinned: false
 license: mit
 short_description: The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+suggested_storage: medium
 ---
 
 # AnythingLLM 🤖
